@@ -20,6 +20,6 @@ its a simple project but we can handle huge maps per the one above, the work was
 
 * raycasting we did together but most sources were found by @Rexbrainz
 
-* it compiles with no problem on Mac, the handling on Linux needs modification
+* it compiles with no problem on Mac, the handling on Linux needs to be tested
 
 Thank you for your attention and hopefully reading the source code can help you out!
